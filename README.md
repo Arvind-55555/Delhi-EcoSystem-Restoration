@@ -11,7 +11,7 @@ Based on IPCC AR6 framework and utilizing open government data from data.gov.in.
 
 ---
 
-## 🌟 Overview
+## Overview
 
 A comprehensive machine learning platform for ecosystem restoration in Delhi, featuring:
 - **Real-time Air Quality Monitoring** - Track AQI, PM2.5, and 6 pollutants
@@ -30,7 +30,7 @@ A comprehensive machine learning platform for ecosystem restoration in Delhi, fe
 
 ---
 
-## 🚀 Quick Start
+## Quick Start
 
 ### Prerequisites
 - Python 3.10+
@@ -58,7 +58,7 @@ python deploy_dashboard.py --mode dev
 
 ---
 
-## 📊 Features
+## Features
 
 ### Dashboard
 - Real-time AQI monitoring with color-coded status
@@ -84,7 +84,7 @@ python deploy_dashboard.py --mode dev
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 ├── api/                   # FastAPI REST API (8 endpoints)
@@ -100,7 +100,7 @@ python deploy_dashboard.py --mode dev
 
 ---
 
-## 🧠 ML Pipeline
+## ML Pipeline
 
 1. **Data Collection** - 18 datasets from NASA POWER, World Bank, synthetic sources
 2. **Feature Engineering** - 89 features from 18 base features
@@ -110,7 +110,7 @@ python deploy_dashboard.py --mode dev
 
 ---
 
-## 📈 Results
+## Results
 
 - **Model Accuracy**: 99.75% (R²=0.9975, RMSE=2.21 µg/m³)
 - **Best Scenario**: 33% PM2.5 reduction (₹1,000M, 11.3 years)
@@ -118,7 +118,7 @@ python deploy_dashboard.py --mode dev
 
 ---
 
-## 📝 Documentation
+## Documentation
 
 - [Final Report](FINAL_REPORT.md) - Complete project summary
 - [Project Analysis](docs/PROJECT_ANALYSIS.md) - Initial analysis
@@ -128,26 +128,26 @@ python deploy_dashboard.py --mode dev
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 Contributions welcome! Fork, create feature branch, and submit PR.
 
 ---
 
-## 📧 Contact
+## Contact
 
 **GitHub**: [@Arvind-55555](https://github.com/Arvind-55555)  
 **Issues**: [Create Issue](https://github.com/Arvind-55555/Delhi-EcoSystem-Restoration/issues)
 
 ---
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 Data: NASA POWER, World Bank, CPCB  
 Tech: React, FastAPI, XGBoost, TensorFlow, Prophet, Tailwind CSS
 
 ---
 
-**⭐ Star this repo if you find it helpful!**
+**Star this repo if you find it helpful!**
 
 Last Updated: December 2025
