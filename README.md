@@ -20,6 +20,12 @@ A comprehensive machine learning platform for ecosystem restoration in Delhi, fe
 - **Restoration Optimizer** - 100+ AI-optimized strategies using NSGA-II
 - **Interactive Dashboard** - Beautiful React UI with real-time data visualization
 
+---
+### Live Artifact
+[![View Artifact](https://img.shields.io/badge/View%20Artifact-%230077B5.svg?style=for-the-badge&logo=claude&logoColor=white)](https://claude.ai/public/artifacts/6ac56b3a-1b44-4bc3-ad33-2a7053c1e806)
+
+---
+
 ### Key Achievements
 ✅ **5 ML Models** trained (XGBoost R² = 0.9975)  
 ✅ **18 Datasets** collected (16,222 records)  
