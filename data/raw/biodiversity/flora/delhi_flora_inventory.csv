@@ -1,0 +1,4 @@
+category,estimated_count,native_species,exotic_species,common_species
+Trees,15000000,85,45,"['Neem', 'Peepal', 'Banyan', 'Jamun', 'Mango', 'Eucalyptus', 'Sheesham']"
+Shrubs,5000000,120,35,"['Bougainvillea', 'Hibiscus', 'Lantana', 'Oleander']"
+Herbs,10000000,200,80,"['Tulsi', 'Aloe Vera', 'Mint', 'Coriander']"

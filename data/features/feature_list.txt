@@ -1,0 +1,113 @@
+FEATURE LIST
+======================================================================
+
+Total Features: 89
+Total Records: 1,826
+Date Range: 2019-01-01 00:00:00 to 2023-12-31 00:00:00
+
+
+Target Variables (4):
+----------------------------------------------------------------------
+  - AQI
+  - Ecosystem_Health_Score
+  - PM10
+  - PM2.5
+
+Weather Features (6):
+----------------------------------------------------------------------
+  - humidity_percent
+  - precipitation_mm
+  - temp_max_C
+  - temp_mean_C
+  - temp_min_C
+  - wind_speed_ms
+
+Lag Features (21):
+----------------------------------------------------------------------
+  - AQI_lag_1d
+  - AQI_lag_30d
+  - AQI_lag_7d
+  - CO_lag_1d
+  - CO_lag_30d
+  - CO_lag_7d
+  - NO2_lag_1d
+  - NO2_lag_30d
+  - NO2_lag_7d
+  - O3_lag_1d
+  - O3_lag_30d
+  - O3_lag_7d
+  - PM10_lag_1d
+  - PM10_lag_30d
+  - PM10_lag_7d
+  - PM2.5_lag_1d
+  - PM2.5_lag_30d
+  - PM2.5_lag_7d
+  - SO2_lag_1d
+  - SO2_lag_30d
+  - SO2_lag_7d
+
+Rolling Features (18):
+----------------------------------------------------------------------
+  - AQI_rolling_max_30d
+  - AQI_rolling_max_7d
+  - AQI_rolling_mean_30d
+  - AQI_rolling_mean_7d
+  - AQI_rolling_std_30d
+  - AQI_rolling_std_7d
+  - PM10_rolling_max_30d
+  - PM10_rolling_max_7d
+  - PM10_rolling_mean_30d
+  - PM10_rolling_mean_7d
+  - PM10_rolling_std_30d
+  - PM10_rolling_std_7d
+  - PM2.5_rolling_max_30d
+  - PM2.5_rolling_max_7d
+  - PM2.5_rolling_mean_30d
+  - PM2.5_rolling_mean_7d
+  - PM2.5_rolling_std_30d
+  - PM2.5_rolling_std_7d
+
+Trend Features (9):
+----------------------------------------------------------------------
+  - AQI_change_30d
+  - AQI_change_7d
+  - AQI_trend_7d
+  - PM10_change_30d
+  - PM10_change_7d
+  - PM10_trend_7d
+  - PM2.5_change_30d
+  - PM2.5_change_7d
+  - PM2.5_trend_7d
+
+Composite Indices (4):
+----------------------------------------------------------------------
+  - Ecosystem_Health_Score
+  - Heat_Stress_Index
+  - Seasonal_Pollution_Index
+  - Weather_Comfort_Index
+
+Annual Features (7):
+----------------------------------------------------------------------
+  - forest_cover_sq_km
+  - green_cover_percentage
+  - population
+  - threatened_species
+  - total_green_cover_sq_km
+  - total_species
+  - total_vehicles
+
+Temporal Features (5):
+----------------------------------------------------------------------
+  - day_of_year
+  - is_weekend
+  - month
+  - season
+  - year
+
+Cyclical Features (5):
+----------------------------------------------------------------------
+  - Ecosystem_Health_Score
+  - day_of_year_cos
+  - day_of_year_sin
+  - month_cos
+  - month_sin

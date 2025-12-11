@@ -1,0 +1,12 @@
+district,year,forest_cover_sq_km,tree_cover_sq_km,green_cover_percentage
+North,2023,16.49,6.72,17.2
+North East,2023,11.54,4.7,12.04
+East,2023,11.54,4.7,12.04
+New Delhi,2023,23.08,9.41,24.08
+Central,2023,16.49,6.72,17.2
+West,2023,16.49,6.72,17.2
+South West,2023,23.08,9.41,24.08
+South,2023,23.08,9.41,24.08
+South East,2023,16.49,6.72,17.2
+North West,2023,16.49,6.72,17.2
+Shahdara,2023,11.54,4.7,12.04

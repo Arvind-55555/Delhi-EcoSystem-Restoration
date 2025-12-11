@@ -1,0 +1,7 @@
+year,report,forest_cover_sq_km,very_dense_forest_sq_km,moderately_dense_forest_sq_km,open_forest_sq_km,tree_cover_sq_km,total_green_cover_sq_km,green_cover_percentage,mangrove_cover_sq_km,scrub_cover_sq_km
+2013,ISFR 2013,176.0,26.4,79.2,70.4,66.88,242.88,16.37,0.0,17.6
+2015,ISFR 2015,177.06,26.56,79.68,70.82,68.28,245.34,16.53,0.0,17.71
+2017,ISFR 2017,178.12,26.72,80.15,71.25,69.69,247.81,16.7,0.0,17.81
+2019,ISFR 2019,179.19,26.88,80.64,71.68,71.09,250.28,16.87,0.0,17.92
+2021,ISFR 2021,180.27,27.04,81.12,72.11,72.5,252.77,17.03,0.0,18.03
+2023,ISFR 2023,181.35,27.2,81.61,72.54,73.91,255.26,17.2,0.0,18.14

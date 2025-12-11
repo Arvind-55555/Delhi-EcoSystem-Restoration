@@ -1,0 +1,2 @@
+timestamp,station,aqi,city,lat,lon,pm25,pm10,no2,so2,co,o3
+2025-12-11T12:03:52.038852,ito,168,Shanghai (上海),31.2047372,121.4489017,168,83,16.5,7.1,12.7,46.3

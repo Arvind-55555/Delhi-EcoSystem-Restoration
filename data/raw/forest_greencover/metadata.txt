@@ -1,0 +1,19 @@
+METADATA: FOREST GREENCOVER
+============================================================
+
+Date Created: 2025-12-11 12:02:49
+
+Data Sources:
+  - data.gov.in: https://www.data.gov.in/resource/district-wise-forest-cover-delhi
+  - Delhi Forest Dept: https://forest.delhi.gov.in/
+  - India State of Forest Report (FSI)
+
+Time Coverage: 2019-2023
+
+Parameters:
+  - Forest Cover (sq km)
+  - Tree Cover (sq km)
+  - Green Cover %
+
+License: National Data Sharing and Accessibility Policy (NDSAP)
+Format: CSV, JSON, Excel

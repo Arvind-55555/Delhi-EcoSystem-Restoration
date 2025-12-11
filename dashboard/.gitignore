@@ -1,0 +1,28 @@
+# node_modules
+dist
+dist-ssr
+*.local
+
+# Editor
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Dependencies
+package-lock.json
+yarn.lock
+
+# Build
+build/
+.cache/
+
+# Environment
+.env
+.env.local
+.env.production
