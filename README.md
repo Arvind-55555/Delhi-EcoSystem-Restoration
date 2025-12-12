@@ -126,7 +126,7 @@ python deploy_dashboard.py --mode dev
 
 ## Documentation
 
-- [Final Report](FINAL_REPORT.md) - Complete project summary
+- [Final Report](docs/FINAL_REPORT.md) - Complete project summary
 - [Project Analysis](docs/PROJECT_ANALYSIS.md) - Initial analysis
 - [ML Architecture](docs/ML_MODEL_ARCHITECTURE.md) - Model design
 - [API Docs](api/README.md) - API endpoints
